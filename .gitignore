@@ -1,0 +1,64 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM/
+
+# CocoaPods
+Pods/
+*.xcworkspace
+Podfile.lock
+
+# Carthage
+Carthage/
+
+# Swift Package Manager
+.swift-build/
+Packages/
+.build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+
+# Objective-C/Swift
+*.o
+*.pyc
+*.swp
+*.xcuserstate
+*.xcworkspace/
+xcuserdata/
+
+# AppCode
+.idea/
+
+# User-specific files
+*.mode1
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.xcuserstate
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace/
+
+# Swift Package Manager
+.build/
+
+# Remove Carthage cache
+Carthage/Checkouts
+Carthage/Build
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+
